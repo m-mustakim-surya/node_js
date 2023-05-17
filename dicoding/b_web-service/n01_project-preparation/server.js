@@ -1,1 +1,0 @@
-console.log('RESTful API gokil bersama');
