@@ -15,7 +15,7 @@ const init = async () => {
     server.route(routes);
 
     await server.start();
-    console.log(`Server berjalan pada ${server.info.uri}`);
+    console.log(`The server is running on ${server.info.uri}`);
 };
 
 init();
