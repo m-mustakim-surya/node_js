@@ -1,0 +1,26 @@
+[
+  {
+    "id": "001",
+    "nama": "Luke Skidipapaw",
+    "noHP": "0812345654321",
+    "email": "luke@mail.com"
+  },
+  {
+    "id": "002",
+    "nama": "Samuel Jackson",
+    "noHP": "088888888888",
+    "email": "samuel@mail.com"
+  },
+  {
+    "id": "003",
+    "nama": "Reza Icikiwir",
+    "noHP": "083939939393",
+    "email": "reza@mail.com"
+  },
+  {
+    "id": "004",
+    "nama": "Rehan Wangsaff",
+    "noHP": "0814141414",
+    "email": "rehan@mail.com"
+  }
+]
