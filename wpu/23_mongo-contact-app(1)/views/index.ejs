@@ -1,0 +1,15 @@
+    <h1>Mak kau hijau</h1>
+    <h1>Mak kau hijau</h1>
+    <h1>Mak kau hijau</h1>
+    <h1>Mak kau hijau</h1>
+    <br>
+    <h2>Daftar Mahasiswa</h2>
+    <% if (mahasiswa.length==0) { %>
+        <p>Tidak ada data mahasiswa</p>
+    <% } %>
+    <% mahasiswa.forEach(mhs => { %>
+        <ul>
+            <li>Nama: <%= mhs.nama %></li>
+            <li>NIM: <%= mhs.nim %></li>
+        </ul>
+    <% }) %>
